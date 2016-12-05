@@ -4,17 +4,17 @@
 <!-- posts -->
 
 <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/2016/07/02/markdown-tuto.html</loc>
+    <loc>http://docs.automotivelinux.org/2016/07/02/markdown-tuto.html</loc>
 </url>
 
 
 <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/blog/2016/01/10/security-white-paper.html</loc>
+    <loc>http://docs.automotivelinux.org/blog/2016/01/10/security-white-paper.html</loc>
 </url>
 
 
 <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/blog/2016/01/01/sample-test-blog.html</loc>
+    <loc>http://docs.automotivelinux.org/blog/2016/01/01/sample-test-blog.html</loc>
 </url>
 
 
@@ -22,7 +22,7 @@
 <!-- pages -->
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/.htaccess</loc>
+    <loc>http://docs.automotivelinux.org/.htaccess</loc>
 </url>
 
 
@@ -31,7 +31,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/specs/01-overview.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/0-introduction.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -42,7 +42,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/01-overview.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/01-overview.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -53,7 +53,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/specs/02-architecture.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/02-adversaries.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -64,7 +64,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/02-plateform-security.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/03-threat-analysis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -75,7 +75,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/specs/03-homescreen.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/04-security-concepts.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -86,7 +86,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/03-security-concepts.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/05-platform-security.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -97,7 +97,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/04-adversaries.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/06-application-security.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -108,7 +108,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/specs/04-app-fw.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/reference/security/07-system-hardening.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -119,7 +119,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/05-threat-analysis.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -130,7 +130,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/reference/security/06-attack-surfaces.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -141,7 +141,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/reference/AGL.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/1-afm-daemons.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -152,7 +152,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/FAQ.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_0_Abstract.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -163,7 +163,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-application-writing.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_1-Deploy_image.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -174,7 +174,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-bindings-overview.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_2-Setting-up-your_os.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -185,7 +185,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-bindings-writing.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_3-Install-agl-for-porter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -196,7 +196,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-daemon-vocabulary.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_4-Inside-the-container.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -207,7 +207,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-events-guide.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_5-Build-image-Porter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -218,7 +218,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-overview.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_6-Porter-image-deployment.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -229,7 +229,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/afb-tests-overview.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_7-SDK-compilation-installation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -240,7 +240,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/afm-system-daemon.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/1_install-client.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -251,7 +251,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/afm-user-daemon.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/1_xds-server.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -262,7 +262,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/signaling/architecture.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/2-widgets.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -273,34 +273,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/contribute/contribute_guidelines.html</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/docsearch.html</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/misc/feed.xml</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/hardware/en/dev/reference/renesas/gen2.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/2.1-widgets.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -311,7 +284,483 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/techpost/</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/2.2-config.xml.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_0_Abstract.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_1-Init-sdk-env.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_2-Trying-out-template.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_3-Dev-with-container.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-2/2_4-Use-app-templates.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/2_install-xds-server.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/2_xds-agent.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/3-permissions.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/hmi-framework/3_1-HomeScreen-Guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/hmi-framework/3_2-WindowManager-Guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/hmi-framework/3_3-SoundManager-Guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/3_install-sdks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/3_xds-cli.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-main/4-quick-tutorial.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/4_build-first-app.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/4_xds-gdb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-1/5_debug-first-app.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/xds/part-2/5_xds-exec.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/AGL.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/hmi-framework/Display_Audio_Transition1.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/hmi-framework/Display_Audio_Transition2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/machines/R-Car-Starter-Kit-gen3.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-application-writing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-binding-references.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-binding-writing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-daemon-options.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-daemon-vocabulary.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-desktop-package.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-events-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-migration-v1-to-v2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/afb-overview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/architecture.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/contribute/contribute_guidelines.html</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/customize_bitbake_conf.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/docsearch.html</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/misc/feed.xml</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/reference/renesas-gen2/gen2.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/reference/renesas-gen3/gen3.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/high-level-viwi-service.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/high-viwi-architecture.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/high-viwi-install-usage-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/homescreen/homescreen_api.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/contact/</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/techpost/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
 </url>
@@ -322,7 +771,16 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/architecture/en/dev/</loc>
+    <loc>http://docs.automotivelinux.org/contribute/</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -333,7 +791,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -344,16 +802,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/contribute/</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/</loc>
+    <loc>http://docs.automotivelinux.org/docs/architecture/en/dev/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -364,7 +813,9 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/contact/</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
 </url>
 
 
@@ -373,7 +824,18 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
 </url>
@@ -384,7 +846,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/homescreen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -395,7 +857,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/hardware/en/dev/</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/footers/intel-footer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -406,25 +868,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/contribute/issues.html</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/static/styles/main.css</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/reference/meta-agl-demo.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/machines/intel.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -435,7 +879,16 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/reference/meta-agl-devel.html</loc>
+    <loc>http://docs.automotivelinux.org/contribute/issues.html</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/low-can-architecture.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -446,7 +899,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/reference/meta-agl.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/low-can-installation-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -457,7 +910,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/devguides/en/dev/reference/meta-sota.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/low-can-usage-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -468,7 +921,16 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/overview.html</loc>
+    <loc>http://docs.automotivelinux.org/static/styles/main.css</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/meta-agl-demo.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -479,7 +941,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/footers/porter-footer.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/meta-agl-devel.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -490,7 +952,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/machines/porter.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/devguides/en/dev/reference/meta-agl.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -501,16 +963,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/static/js/process-uml.js</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/hardware/en/dev/reference/renesas/proprietary.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/footers/porter-footer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -521,7 +974,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/machines/qemu.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/machines/porter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -532,7 +985,16 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/quick-tutorial.html</loc>
+    <loc>http://docs.automotivelinux.org/static/js/process-uml.js</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/reference/renesas-gen2/proprietary.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -543,7 +1005,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/footers/raspberrypi-footer.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/reference/renesas-gen3/proprietary.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -554,7 +1016,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/machines/raspberrypi.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/machines/qemu.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -565,7 +1027,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-binder/resources.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/footers/raspberrypi-footer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -576,7 +1038,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/audio/resources.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/machines/raspberrypi.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -587,7 +1049,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/signaling/resources.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/signaling/resources.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -598,16 +1060,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/sitemap.xml</loc>
-</url>
-
-
-    
-    
-    
-
-    <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/source-code.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/audio/resources.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -618,7 +1071,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/getting_started/en/dev/reference/troubleshooting.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/apis_services/en/dev/reference/af-binder/resources.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -629,7 +1082,7 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/hardware/en/dev/reference/renesas/usb-gadget.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/setup-sdk-environment.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -640,7 +1093,16 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/widgets.html</loc>
+    <loc>http://docs.automotivelinux.org/sitemap.xml</loc>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/source-code.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>
@@ -651,7 +1113,18 @@
     
 
     <url>
-    <loc>https://automotive-grade-linux.github.io/docs-agl/docs/apis_services/en/dev/reference/af-main/writing-config.xml.html</loc>
+    <loc>http://docs.automotivelinux.org/docs/getting_started/en/dev/reference/troubleshooting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+
+    
+    
+    
+
+    <url>
+    <loc>http://docs.automotivelinux.org/docs/hardware/en/dev/reference/renesas-gen2/usb-gadget.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
 </url>

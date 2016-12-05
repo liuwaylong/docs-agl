@@ -3,19 +3,17 @@
   <channel>
     <title> </title>
     <description>AGL (Automotive Grade Linux) Developer Website</description>
-    <link>https://automotive-grade-linux.github.io/docs-agl/docs-agl//</link>
-    <atom:link href="https://automotive-grade-linux.github.io/docs-agl/docs-agl//docs-agl/misc/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2016 23:48:53 +0100</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2016 23:48:53 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://docs.automotivelinux.org/</link>
+    <atom:link href="http://docs.automotivelinux.org/misc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Dec 2017 00:02:49 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2017 00:02:49 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Test Markdown to UML</title>
-        <description>&lt;p&gt;Basic reference for Markdown documentation with:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;kramdown extentions&lt;/li&gt;
-  &lt;li&gt;UML/Flow diagrams&lt;/li&gt;
-&lt;/ul&gt;
+        <description>&lt;p&gt;Basic reference for Markdown documentation with:
+- kramdown extentions
+- UML/Flow diagrams&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -252,12 +250,12 @@ var bar = 0;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Single backticks&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;'Isn't this fun?'&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&#39;Isn&#39;t this fun?&#39;&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;‘Isn’t this fun?’&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Quotes&lt;/td&gt;
-      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Isn't this fun?&quot;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Isn&#39;t this fun?&quot;&lt;/code&gt;&lt;/td&gt;
       &lt;td&gt;“Isn’t this fun?”&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -347,9 +345,9 @@ cond(no)-&amp;gt;op
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sat, 02 Jul 2016 00:00:00 +0200</pubDate>
-        <link>https://automotive-grade-linux.github.io/docs-agl/docs-agl//2016/07/02/markdown-tuto.html</link>
-        <guid isPermaLink="true">https://automotive-grade-linux.github.io/docs-agl/docs-agl//2016/07/02/markdown-tuto.html</guid>
+        <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
+        <link>http://docs.automotivelinux.org/2016/07/02/markdown-tuto.html</link>
+        <guid isPermaLink="true">http://docs.automotivelinux.org/2016/07/02/markdown-tuto.html</guid>
         
         
       </item>
@@ -364,9 +362,9 @@ that could be used today and within the next couple of years to make connected c
 Download in PDF &lt;a href=&quot;http://iot.bzh/download/public/2016/security/Linux-Automotive-Security-v10.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 13:45:04 +0100</pubDate>
-        <link>https://automotive-grade-linux.github.io/docs-agl/docs-agl//blog/2016/01/10/security-white-paper.html</link>
-        <guid isPermaLink="true">https://automotive-grade-linux.github.io/docs-agl/docs-agl//blog/2016/01/10/security-white-paper.html</guid>
+        <pubDate>Sun, 10 Jan 2016 12:45:04 +0000</pubDate>
+        <link>http://docs.automotivelinux.org/blog/2016/01/10/security-white-paper.html</link>
+        <guid isPermaLink="true">http://docs.automotivelinux.org/blog/2016/01/10/security-white-paper.html</guid>
         
         <category>security</category>
         
@@ -380,11 +378,11 @@ Download in PDF &lt;a href=&quot;http://iot.bzh/download/public/2016/security/Li
         <description>&lt;p&gt;This is a sample of post for webdoc-tools 
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;Be sure to &lt;a href=&quot;/docs-agl//docs-agl/misc/feed.xml&quot;&gt;subscribe&lt;/a&gt; using RSS&lt;/p&gt;
+&lt;p&gt;Be sure to &lt;a href=&quot;/misc/feed.xml&quot;&gt;subscribe&lt;/a&gt; using RSS&lt;/p&gt;
 </description>
-        <pubDate>Fri, 01 Jan 2016 01:00:00 +0100</pubDate>
-        <link>https://automotive-grade-linux.github.io/docs-agl/docs-agl//blog/2016/01/01/sample-test-blog.html</link>
-        <guid isPermaLink="true">https://automotive-grade-linux.github.io/docs-agl/docs-agl//blog/2016/01/01/sample-test-blog.html</guid>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://docs.automotivelinux.org/blog/2016/01/01/sample-test-blog.html</link>
+        <guid isPermaLink="true">http://docs.automotivelinux.org/blog/2016/01/01/sample-test-blog.html</guid>
         
         <category>test</category>
         
