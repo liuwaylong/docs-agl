@@ -255,8 +255,6 @@ Or you can be uncompressed and written to the device:
   sync
 ```
 
-Or
-
 ### Booting the board
 
 * Turn the board off using the power switch.
